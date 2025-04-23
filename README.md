@@ -6,12 +6,11 @@ This project demonstrates structured file handling techniques in Python for mana
 
 ```
 mainfolder/
-├── descriptions/
+├── product_descriptions/
 │   ├── <product_sku>.txt
-├── products/
+├── product_details/
 │   ├── <product_sku>.json
-├── sales/
-│   ├── sales_data.csv
+├── sales_data.csv
 ```
 
 ## 📘 Features
