@@ -58,5 +58,10 @@ This project is ideal for entry-level developers and data analysts who want to:
 - Learn practical file I/O operations with real-world data.
 - Manage structured data formats in a scalable way.
 
-## Contact
-[Linkedin](https://www.linkedin.com/in/pawarom14/) | [E-mail](pawarom14112002@gmail.com)
+## 📬 Contact
+
+For any questions or feedback, feel free to reach out:
+
+**Gayatri Pawar**  
+📧 Email: pawarom14112002@example.com  
+💼 LinkedIn: [linkedin.com/in/gayatripawar](https://linkedin.com/in/pawarom14)
